@@ -1,2 +1,3 @@
-# nelly's_portfolio
-Analytics Portfolio
+**# Nelly Dyulgerova - Data Analyst Portfolio** <br/>
+
+**## About**<br/>
