@@ -8,4 +8,4 @@ I believe that the best way to showcase your experience is by showing what work 
 
 [Data Analyst Certificate](https://drive.google.com/file/d/1unc2OLbGKlONZRAxiVsCLcZVrSuQNcvJ/view?usp=sharing) (Jul 2024) (Telerik Academy School)
 
-My CV in [pdf](Nelly_Dyulgerova_Resume.pdf)
+My CV in [pdf](https://github.com/NellyDyulgerova/CV/blob/8e7b04c09a20c918321f89ef2cef185fb57dff47/Nelly_Dyulgerova_Resume.pdf)
