@@ -1,3 +1,3 @@
-**# Nelly Dyulgerova - Data Analyst Portfolio** <br/>
+# Nelly Dyulgerova - Data Analyst Portfolio
 
-**## About**<br/>
+## About
