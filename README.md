@@ -8,4 +8,4 @@ I believe that the best way to showcase your experience is by showing what work 
 
 [Data Analyst Certificate](https://drive.google.com/file/d/1unc2OLbGKlONZRAxiVsCLcZVrSuQNcvJ/view?usp=sharing) (Jul 2024) (Telerik Academy School)
 
-My CV in [pdf]()
+My CV in [pdf](https://drive.google.com/file/d/1nNaiXTHVhuY5ppJJdjgb8N1dRibk7x9o/view?usp=sharing)
