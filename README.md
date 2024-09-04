@@ -30,5 +30,5 @@ I believe that the best way to showcase your experience is by showing what work 
 [Data Analyst Certificate](https://drive.google.com/file/d/1unc2OLbGKlONZRAxiVsCLcZVrSuQNcvJ/view?usp=sharing) (Jul 2024) (Telerik Academy School)
 
 ### Contacts
-LinkedIn: @Nelly Dyulgerova
+LinkedIn: [@Nelly Dyulgerova](http://linkedin.com/in/nelly-dyulgerova-73b149161)<br/>
 E-mail: neli.pavlova16@gmail.com
