@@ -17,7 +17,7 @@ My CV in [pdf](https://github.com/NellyDyulgerova/CV/blob/8e7b04c09a20c918321f89
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 **Customer Satisfaction Analysis**<br/>
-**Code**: [customer satisfaction olist store](https://drive.google.com/file/d/1unc2OLbGKlONZRAxiVsCLcZVrSuQNcvJ/view?usp=sharing)<br/>
+**Code**: [customer satisfaction olist store](https://github.com/NellyDyulgerova/Customer-Satisfaction-Olist/blob/1292423f4eba46608e8be76edfa070a606593494/Team_3_Technical_submission_1.ipynb)<br/>
 **Description**: This project is based on a Brazilian eCommerce public dataset made at Olist Store. Olist is essentially an aggregating platform - it offers suppliers or sellers the possibility to sell their products at their website and connects them to potential buyers. The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. You can find more information about the dataset [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).<br/>
 **Skills**: data cleaning, data analysis, descriptive statistics, predictive statistics, regression analysis, machine learning, data visualization.<br/>
 **Technology**: SQL, Python, Pandas, Seaborn, Matplotlib, Scikit-learn, Power BI<br/>
